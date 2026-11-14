@@ -33,9 +33,9 @@ The purpose of this repository is to understand the fundamental concepts of Oper
 
 ## Technologies Used
 
-- **Programming Language:** C / C++
+- **Programming Language:** C++
 - **IDE:** Visual Studio Code
-- **Operating System:** Windows / Linux
+- **Operating System:** Windows 
 
 
 ## Learning Outcomes
